@@ -37,5 +37,3 @@ Upload a satellite image, get back a land-cover classification — land, clouds,
 ---
 
 [sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-profile)
-
-*SIGCE, Navi Mumbai · B.E. Computer Engineering · CGPA 9.22*
