@@ -41,7 +41,7 @@ Final-year Computer Engineering student. I build things that actually work, from
 
 Sound-alert app for deaf/HoH users. Listens every 4s, classifies audio through a CNN (88–90% val acc, 10 classes), fires full-screen visual alerts + vibration. Custom sound registration via MFCC cosine similarity.
 
-[App](https://github.com/SusmitaSahu365/sonictouch-flutter) · [Backend](https://github.com/SusmitaSahu365/sonictouch-backend) · [APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)
+[App](https://github.com/SusmitaSahu365/sonictouch) · [Backend](https://github.com/SusmitaSahu365/sonictouch-backend) · [APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
