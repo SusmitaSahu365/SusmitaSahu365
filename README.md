@@ -1,6 +1,6 @@
 # Hey, I'm Susmita 👋
 
-Final-year Computer Engineering student. I build things that actually work — from CNN-powered assistive apps to multilingual healthcare tools. My work spans the full stack: model training, APIs, databases, and mobile UI. I'm also comfortable lower down — systems programming, data structures, and building from the ground up.
+Final-year Computer Engineering student. I build things that actually work, from CNN-powered assistive apps to multilingual healthcare tools. My work spans the full stack: model training, APIs, databases, and mobile UI. I'm also comfortable lower down like systems programming, data structures, and building from the ground up.
 
 ---
 
