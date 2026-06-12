@@ -37,7 +37,7 @@ Final-year Computer Engineering student. I build things that actually work, from
 
 ## Projects
 
-### [SonicTouch](https://github.com/SusmitaSahu365/sonictouch-flutter) — ML · Assistive tech
+### [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — ML · Assistive tech
 
 Sound-alert app for deaf/HoH users. Listens every 4s, classifies audio through a CNN (88–90% val acc, 10 classes), fires full-screen visual alerts + vibration. Custom sound registration via MFCC cosine similarity.
 
@@ -63,11 +63,11 @@ Multilingual consultation recorder: diarizes speakers via AssemblyAI, translates
 
 ---
 
-### [GeoVision Classifier](https://github.com/SusmitaSahu365/geovision-classifier) — CV · Web
+### [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — CV · Web
 
 Satellite image → land-cover classification (land / clouds / water / forest). CNN with augmentation: 88% accuracy, 90% precision. Flask backend + MySQL for auth and prediction history, user dashboard with upload history.
 
-[GitHub](https://github.com/SusmitaSahu365/geovision-classifier) · [Live](https://geovision-classifier-2.onrender.com/)
+[GitHub](https://github.com/SusmitaSahu365/Geovision-Classifier) · [Live](https://geovision-classifier-2.onrender.com/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -76,4 +76,4 @@ Satellite image → land-cover classification (land / clouds / water / forest). 
 
 ---
 
-[sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://linkedin.com/in/your-profile)
+[sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
