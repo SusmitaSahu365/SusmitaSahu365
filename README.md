@@ -77,7 +77,7 @@ Satellite image → land-cover classification (land / clouds / water / forest). 
 ---
 ## 📊 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SusmitaSahu365)
+![GitHub Contribution Graph](https://github-contributions-api.deno.dev/SusmitaSahu365.svg)
 
 ---
 [sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
