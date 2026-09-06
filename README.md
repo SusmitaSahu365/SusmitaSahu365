@@ -87,7 +87,6 @@ Satellite image → land-cover classification (land / clouds / water / forest). 
 </p>
 
 <div align="center">
-![GitHub Activity](./assets/activity-overview.png)
 
 ---
 [sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
