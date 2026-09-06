@@ -75,5 +75,9 @@ Satellite image → land-cover classification (land / clouds / water / forest). 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+## 📊 GitHub Contributions
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SusmitaSahu365)
+
+---
 [sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
