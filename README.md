@@ -1,155 +1,96 @@
 <div align="center">
 
-# Hey, I'm Susmita 👋
-
-### Final-year Computer Engineer turning ML models into things people actually use
-
-I build across the full stack — training CNNs, standing up FastAPI/Flask backends,
-shipping Flutter apps, and wiring it all to a database that doesn't fall over.
-Recent focus: assistive tech and multilingual healthcare tools.
-
-[![Email](https://img.shields.io/badge/Email-sushmitasahu2710%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushmitasahu2710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmita-sahu-b4124a265)
-[![GitHub](https://img.shields.io/badge/GitHub-SusmitaSahu365-181717?style=flat&logo=github&logoColor=white)](https://github.com/SusmitaSahu365)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b2e,100:2d2a4a&height=200&section=header&text=Hey%20👋%20I'm%20Susmita&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%2B%20ML%20Developer%20•%20Full-Stack%20Builder%20•%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
----
+<h3 align="center">Building scalable backends, CNN-powered ML systems, and AI-integrated mobile apps.</h3>
 
-## ⚡ Quick facts
+<br/>
 
-- 🎓 B.E. Computer Engineering, Smt. Indira Gandhi College of Engineering — **CGPA 9.245** (2024–2027)
-- 🏆 92.74% in Diploma, Government Polytechnic, Thane (2021–2024)
-- 🧠 Trained CNNs hitting **88–90% validation accuracy** in production-shipped apps, not just notebooks
-- 🥈 2nd Prize, 24-Hour National Level Hackathon *(Multiverse of Tech)* — plus two more hackathon podium finishes
-- ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+## 👩‍💻 About Me
 
----
+- 🎓 Final Year Computer Engineering Student — CGPA 9.245
+- 🧠 Building CNN-based classification systems that ship, not just notebooks
+- 🔧 Backend developer comfortable across Flask, FastAPI, and MySQL/Firebase
+- 🗣️ Exploring LLM integration — Llama 3, Groq, LangChain, LangGraph
+- 📱 Shipping full products end-to-end: model → API → Flutter app
+- ⚡ I love hackathons, coding competitions, and building things people actually use
 
-## 🛠️ Tech I work with
+## 🌐 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/susmita-sahu-b4124a265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SusmitaSahu365" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:sushmitasahu2710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+## 🛠️ Tech Stack
 
 **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & infra**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**Frameworks & Libraries**
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 🚀 Projects I'm proud of
+**Databases & Cloud**
 
-### 🔊 [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — Assistive tech, ML
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-A sound-alert app for deaf and hard-of-hearing users. Listens continuously in 4-second
-windows, classifies ambient audio through a CNN trained on UrbanSound8K, and fires
-full-screen visual alerts plus vibration the instant it hears something that matters
-(dog bark, car horn, siren). Users can also register custom sounds, matched via MFCC
-cosine similarity.
+**Tools**
 
-**88–90% validation accuracy · 10 sound classes · real-time on-device alerts**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-[App](https://github.com/SusmitaSahu365/sonictouch) · [Backend](https://github.com/SusmitaSahu365/sonictouch-backend) · [Try the APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)
+## 🚀 Featured Projects
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 🔊 [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — Assistive tech · ML
+Sound-alert app for deaf/HoH users. CNN trained on UrbanSound8K (88–90% val accuracy) fires full-screen visual alerts + vibration in real time, with custom sound registration via MFCC similarity.
+`Flutter` `TensorFlow` `Flask` `Firebase`
 
----
+### 🩺 [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — Healthcare · AI
+Multilingual consultation recorder — diarizes speakers with AssemblyAI, translates with Llama 3 on Groq, and outputs structured clinical summaries into MySQL via FastAPI + Firebase.
+`Flutter` `FastAPI` `MySQL` `Firebase`
 
-### 🩺 [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — Healthcare, AI
+### 🛰️ [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — Computer Vision · Web
+Satellite image → land-cover classification (88% accuracy, 90% precision), with a Flask + MySQL backend for auth and a full prediction-history dashboard.
+`Python` `TensorFlow` `Flask` `MySQL`
 
-A multilingual consultation recorder built for clinics where doctor and patient don't
-share a first language. It diarizes speakers with AssemblyAI, translates the transcript
-with Llama 3 on Groq, and turns the conversation into a structured English clinical
-summary — symptoms, diagnosis, recommendations — stored in MySQL via a FastAPI backend
-and Firebase.
+## 📊 GitHub Stats
 
-**Speech → diarization → translation → structured clinical record, end to end**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SusmitaSahu365&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmitaSahu365&layout=compact&theme=radical&hide_border=true" width="35%"/>
+</p>
 
-[GitHub](https://github.com/SusmitaSahu365/MediLingua) · [Try the APK](https://github.com/SusmitaSahu365/MediLingua/releases/latest)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 🛰️ [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — Computer vision, Web
-
-Upload a satellite image, get back a land-cover classification — land, clouds, water,
-or forest. A CNN trained with data augmentation handles the vision side; a Flask +
-MySQL backend handles auth and keeps a per-user prediction history with a dashboard
-to browse past uploads.
-
-**88% accuracy · 90% precision · full auth + history, not just a model demo**
-
-[GitHub](https://github.com/SusmitaSahu365/Geovision-Classifier) · [Live demo](https://geovision-classifier-2.onrender.com/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Data Science & Analytics Intern** — Imarticus Learning · *Jan–Feb 2026*
-Ran an industry-oriented analytics track: cleaned and explored multiple real-world
-datasets in SQL/Pandas, then built interactive Power BI dashboards to track KPIs.
-
-**Full Stack Developer Intern** — Sumago Infotech Pvt. Ltd. · *Jun–Jul 2023*
-Built full-stack web apps (HTML/CSS/JS/PHP/MySQL) with CRUD flows and responsive UI
-tested across devices and browsers.
-
----
-
-## 🏅 Achievements & certifications
-
-- 🥈 2nd Prize — *Multiverse of Tech*, 24-Hour National Level Hackathon
-- 🥉 1st Runner-up — *Code and Compete*, Mini Hackathon by IOTECH SIGCE
-- 🏆 Winner — *Technova* Coding Competition, Government Polytechnic, Thane
-- 🎖️ Top 3, Computer Engineering Department, Government Polytechnic, Thane
-- 📜 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-
----
-
-## 📊 GitHub activity
-
-![GitHub Activity](./assets/activity-overview.png)
-
-<div align="center">
-
-![Susmita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SusmitaSahu365&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusmitaSahu365&layout=compact&hide_border=true)
-
-</div>
-
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaSahu365&theme=radical&hide_border=true" width="60%"/>
+</p>
 
 <div align="center">
 
