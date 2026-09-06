@@ -8,16 +8,8 @@
 
 <br/>
 
-## 👩‍💻 About Me
 
-- 🎓 Final Year Computer Engineering Student — CGPA 9.245
-- 🧠 Building CNN-based classification systems that ship, not just notebooks
-- 🔧 Backend developer comfortable across Flask, FastAPI, and MySQL/Firebase
-- 🗣️ Exploring LLM integration — Llama 3, Groq, LangChain, LangGraph
-- 📱 Shipping full products end-to-end: model → API → Flutter app
-- ⚡ I love hackathons, coding competitions, and building things people actually use
-
-## 🌐 Socials
+##  Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/susmita-sahu-b4124a265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,7 +17,7 @@
 <a href="mailto:sushmitasahu2710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -67,21 +59,21 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔊 [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — Assistive tech · ML
+###  [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — Assistive tech · ML
 Sound-alert app for deaf/HoH users. CNN trained on UrbanSound8K (88–90% val accuracy) fires full-screen visual alerts + vibration in real time, with custom sound registration via MFCC similarity.
 `Flutter` `TensorFlow` `Flask` `Firebase`
 
-### 🩺 [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — Healthcare · AI
+###  [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — Healthcare · AI
 Multilingual consultation recorder — diarizes speakers with AssemblyAI, translates with Llama 3 on Groq, and outputs structured clinical summaries into MySQL via FastAPI + Firebase.
 `Flutter` `FastAPI` `MySQL` `Firebase`
 
-### 🛰️ [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — Computer Vision · Web
+### [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — Computer Vision · Web
 Satellite image → land-cover classification (88% accuracy, 90% precision), with a Flask + MySQL backend for auth and a full prediction-history dashboard.
 `Python` `TensorFlow` `Flask` `MySQL`
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SusmitaSahu365&show_icons=true&theme=radical&hide_border=true" width="48%"/>
