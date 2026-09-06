@@ -1,78 +1,80 @@
-<div align="center">
+# Hey, I'm Susmita 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b2e,100:2d2a4a&height=200&section=header&text=Hey%20👋%20I'm%20Susmita&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%2B%20ML%20Developer%20•%20Full-Stack%20Builder%20•%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+Final-year Computer Engineering student. I build things that actually work, from CNN-powered assistive apps to multilingual healthcare tools. My work spans the full stack: model training, APIs, databases, and mobile UI. I'm also comfortable lower down like systems programming, data structures, and building from the ground up.
 
-</div>
+---
 
-<h3 align="center">Building scalable backends, CNN-powered ML systems, and AI-integrated mobile apps.</h3>
+## Languages
 
-<br/>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## ML / AI
 
-##  Socials
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=flat&logoColor=white)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/susmita-sahu-b4124a265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/SusmitaSahu365" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sushmitasahu2710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## Frameworks & tools
 
-##  Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Projects
 
-**Frameworks & Libraries**
+### [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — ML · Assistive tech
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Sound-alert app for deaf/HoH users. Listens every 4s, classifies audio through a CNN (88–90% val acc, 10 classes), fires full-screen visual alerts + vibration. Custom sound registration via MFCC cosine similarity.
 
-**Databases & Cloud**
+[App](https://github.com/SusmitaSahu365/sonictouch) · [Backend](https://github.com/SusmitaSahu365/sonictouch-backend) · [APK](https://github.com/SusmitaSahu365/sonictouch/releases/latest)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — AI · Healthcare
 
-##  Featured Projects
+Multilingual consultation recorder: diarizes speakers via AssemblyAI, translates with Llama 3 on Groq, outputs structured English clinical summaries (symptoms, diagnosis, recommendations) into MySQL via FastAPI + Firebase.
 
-###  [SonicTouch](https://github.com/SusmitaSahu365/sonictouch) — Assistive tech · ML
-Sound-alert app for deaf/HoH users. CNN trained on UrbanSound8K (88–90% val accuracy) fires full-screen visual alerts + vibration in real time, with custom sound registration via MFCC similarity.
-`Flutter` `TensorFlow` `Flask` `Firebase`
+[GitHub](https://github.com/SusmitaSahu365/MediLingua) · [APK](https://github.com/SusmitaSahu365/MediLingua/releases/latest)
 
-###  [MediLingua](https://github.com/SusmitaSahu365/MediLingua) — Healthcare · AI
-Multilingual consultation recorder — diarizes speakers with AssemblyAI, translates with Llama 3 on Groq, and outputs structured clinical summaries into MySQL via FastAPI + Firebase.
-`Flutter` `FastAPI` `MySQL` `Firebase`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — Computer Vision · Web
-Satellite image → land-cover classification (88% accuracy, 90% precision), with a Flask + MySQL backend for auth and a full prediction-history dashboard.
-`Python` `TensorFlow` `Flask` `MySQL`
+---
 
+### [GeoVision Classifier](https://github.com/SusmitaSahu365/Geovision-Classifier) — CV · Web
+
+Satellite image → land-cover classification (land / clouds / water / forest). CNN with augmentation: 88% accuracy, 90% precision. Flask backend + MySQL for auth and prediction history, user dashboard with upload history.
+
+[GitHub](https://github.com/SusmitaSahu365/Geovision-Classifier) · [Live](https://geovision-classifier-2.onrender.com/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 ## GitHub Stats
 
 <p align="center">
@@ -85,7 +87,7 @@ Satellite image → land-cover classification (88% accuracy, 90% precision), wit
 </p>
 
 <div align="center">
+![GitHub Activity](./assets/activity-overview.png)
 
-**Let's build something.** [sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
-
-</div>
+---
+[sushmitasahu2710@gmail.com](mailto:sushmitasahu2710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/susmita-sahu-b4124a265)
