@@ -75,16 +75,6 @@ Satellite image → land-cover classification (land / clouds / water / forest). 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SusmitaSahu365&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmitaSahu365&layout=compact&theme=radical&hide_border=true" width="35%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SusmitaSahu365&theme=radical&hide_border=true" width="60%"/>
-</p>
 
 <div align="center">
 
